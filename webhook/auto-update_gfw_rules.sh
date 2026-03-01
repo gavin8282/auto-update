@@ -11,7 +11,7 @@ CONF_DIR="/App/smartdns/conf"
 # SmartDNS 主配置文件路径 (OpenWrt 重启时需要)
 SMARTDNS_CONF="$CONF_DIR/smartdns.conf"
 # GitHub 用户名和仓库名
-GIT_USER="Song828"
+GIT_USER="gavin8282"
 GIT_REPO="auto-update"
 # --- 配置区结束 ---
 
